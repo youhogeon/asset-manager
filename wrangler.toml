@@ -1,0 +1,6 @@
+name = "asset-manager"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "asset-manager"
+database_id = "1e43dfbb-f41d-48ca-a282-765378b3fcde"
